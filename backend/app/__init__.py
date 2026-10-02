@@ -1,0 +1,1 @@
+"""Clipoteca FastAPI application package."""
